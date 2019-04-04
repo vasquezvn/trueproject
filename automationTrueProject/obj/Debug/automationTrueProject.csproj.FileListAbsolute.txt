@@ -1,0 +1,11 @@
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\automationTrueProject.dll
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\automationTrueProject.pdb
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\WebDriver.dll
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\WebDriver.Support.dll
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\WebDriver.xml
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\WebDriver.Support.xml
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\obj\Debug\automationTrueProject.csprojResolveAssemblyReference.cache
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\obj\Debug\automationTrueProject.dll
+c:\users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\obj\Debug\automationTrueProject.pdb
+C:\Users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ivan.vasquez\documents\visual studio 2015\Projects\trueProject\automationTrueProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
